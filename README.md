@@ -14,4 +14,11 @@ A simple Resume Matcher app that compares resumes with job descriptions using Py
 - Streamlit
 - PyPDF2
 
-## 📂 Project Structure
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshotsHome.png)
+
+### Result Page
+![Result Page](screenshotsResult.png)
+
