@@ -32,5 +32,5 @@ A simple Resume Matcher app that compares resumes with job descriptions using Py
 2. Install dependencies
 pip install -r requirements.txt
 
-3.Run the app
+3. Run the app
 streamlit run app.py
