@@ -28,13 +28,9 @@ A simple Resume Matcher app that compares resumes with job descriptions using Py
    ```bash
    git clone https://github.com/Chiragmohite/resume-matcher.git
    cd resume-matcher
-Install dependencies
-
-bash
-Copy code
+   
+2. Install dependencies
 pip install -r requirements.txt
-Run the app
 
-bash
-Copy code
+3.Run the app
 streamlit run app.py
