@@ -17,8 +17,8 @@ A simple Resume Matcher app that compares resumes with job descriptions using Py
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshotsHome.png)
+![Home Page](screenshotshome.png)
 
 ### Result Page
-![Result Page](screenshotsResult.png)
+![Result Page](screenshotsresult.png)
 
